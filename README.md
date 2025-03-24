@@ -1,6 +1,8 @@
 # txtUDL
 A bit of a personal front-end/ui project for myself. I take a lot of notes in simple text files and use notepad++ a lot.
+
 So this is a Notepad++ User Defined Language for .txt files to make it automatically do some formatting without the need of a markup language extension.
+
 Designed to make it easier to read and write my personal notes.
 
 <img width="395" alt="to do screenshot" src="https://github.com/user-attachments/assets/50a838bb-773f-4a87-bdc0-6f032e48daa5" />
