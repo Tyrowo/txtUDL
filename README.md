@@ -1,7 +1,7 @@
 # txtUDL
 A bit of a personal front-end/ui project for myself. I take a lot of notes in simple text files and use notepad++ a lot.
 
-So this is a Notepad++ User Defined Language for .txt files to make it automatically do some formatting without the need of a markup language extension.
+So this is a Notepad++ User Defined Language for .txt files to make it automatically do some formatting without the need of a markup language extension. Instead, you simply import this .xml in as a User Defined Language, and you can either manually set specific files to be interpreted by this UDL or you can set it to open all of your .txt extension files this way.
 
 Designed to make it easier to read and write my personal notes.
 
