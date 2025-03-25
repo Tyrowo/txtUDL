@@ -6,7 +6,7 @@ So this is a Notepad++ User Defined Language for .txt files to make it automatic
 Designed to make it easier to read and write my personal notes.
 
 To use it you have to donload the .xml, click the Language dropdown, hover User Defined Lanugage > Define Your Language.
-Then click Import, and click Save As to have that language appear in the Languages dropdown.
+Then click Import, and click Save As to have that language appear in the Languages dropdown. Just make sure you don't save it as anything with "Markdown" or else notepad will do a weird switch to Markdown(Preinstalled). It still works but it's weird. So that's why I save it as Txt Markup.
 If you have any .txt files it won't apply until you close and reopen them or select the language manually for each, but it should apply to any .txt files you open afterward.
 
 <img width="169" alt="to do screenshot" src="https://github.com/user-attachments/assets/cd7764a5-a671-4c31-bfb8-f3848a05d91e" />
