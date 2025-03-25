@@ -15,8 +15,11 @@ If you have any .txt files it won't apply until you close and reopen them or sel
 
 <img width="341" alt="to do screenshot 3" src="https://github.com/user-attachments/assets/4ffdcdeb-3c39-4d9b-af07-b895865c1e0d" />
 
+<img width="290" alt="image" src="https://github.com/user-attachments/assets/3d617701-1640-422a-a444-d038349da412" />
+
+
 Fixed the wonkiness with the // highlighting links by just making an operator for https:// also does a nice light blue color. 
-numbering systems, bullet points, headers.
+numbering systems, bullet points, headers, 202Y-MM-DD dates, ~~ is another kind of commenting or making little divider lines. 
 you can do 1.a. and 1.b. etc, but 1. will highlight like a regular number because I wanted it to highlight numbers when they were at the end of sentences. so to keep the list entries pink you need to do something like 1.. Might need to fix that next.
 On the plus side in addition to being at the end of sentences I also improved it to highlight numbers when they're like 1k or 5M or 2pm and ranges of numbers.
 
