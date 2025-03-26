@@ -28,13 +28,13 @@ Features:
 * // comments - set to blue. Links starting with https:// will also be set to this color blue.
 * ~~ comments - set to yellow. I like using this for divider lines so I can do like ~~~ NEXT SECTION ~~~
 * -- - same color as text, but bold and italicized. Used for term definitions.
-* [[text]] - set to pink and bold, usually I use this when I need to note a button or something but good if you just need a delimiter that doesn't go all the way to the end of a line
+* [[text]] - closed square brackets are set to pink and bold, usually I use this when I need to note a button or something but good if you just need a delimiter that doesn't go all the way to the end of a line
 * Numbers colored and work with parentheses, ~2 for appx numbers, k M for thousand/million, am pm, , and . for using in sentences, - : ^ for ranges, times, and exponents.
 * two types of list bullets: just letters and numbers. a. 1. set to work from 0-20 and a-z A-Z. However, there's currently a problem where the number colors overrule this bullet point formatting. You can do 1.a. and it will work fine though. Current workaround for numbered bullets is to use two periods 1..
 * A second color for list bullets ! a-z! A-Z! 0-20! have hot pink for emphasis.
 * YYYY-MM-DD dates are highlighted orange as long as the year is 202X
-* arrows -> <- --> <-- -v -^ --v --^ highlighted red
-* _____ ----- highlighted as line dividers
+* arrows -> <- -v -^ highlighted red
+* _____ highlighted as line divider
 * Month names and DOW names / abbrevs are highlighted
 
 https://github.com/nordtheme
