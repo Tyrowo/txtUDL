@@ -17,18 +17,22 @@ If you have any .txt files it won't apply until you close and reopen them or sel
 
 <img width="290" alt="image" src="https://github.com/user-attachments/assets/3d617701-1640-422a-a444-d038349da412" />
 
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/08a03cfd-fcf6-4bec-86b7-358eeb43ea9c" />
+
+
 Features:
 * 3 types of heading delimiters (delimiters all highlight text until the end of the line):
 * #! Large underlined bold, ## Medium Italic, #. Small underlined bold
-* 3 types of comment delimiters:
+* 4 types of comment delimiters:
 * // comments - set to blue. Links starting with https:// will also be set to this color blue.
 * ~~ comments - set to yellow. I like using this for divider lines so I can do like ~~~ NEXT SECTION ~~~
 * -- - same color as text, but bold and italicized. Used for term definitions.
+* ** - set to purple and bold to match the emphasis of the main header
 * Numbers colored and work with parentheses, ~2 for appx numbers, k M for thousand/million, am pm, , and . for using in sentences, - : ^ for ranges, times, and exponents.
 * two types of list bullets: just letters and numbers. a. 1. set to work from 0-20 and a-z A-Z. However, there's currently a problem where the number colors overrule this bullet point formatting. You can do 1.a. and it will work fine though. Current workaround for numbered bullets is to use two periods 1..
 * A second color for list bullets ! a-z! A-Z! 0-20! have hot pink for emphasis.
 * YYYY-MM-DD dates are highlighted orange as long as the year is 202X
-* arrows -> <- --> <-- highlighted red
+* arrows -> <- --> <-- -v -^ --v --^ highlighted red
 * _____ ----- highlighted as line dividers
 * Month names and DOW names / abbrevs are highlighted
 
