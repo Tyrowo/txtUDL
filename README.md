@@ -37,7 +37,7 @@ Features:
 * _____ highlighted as line divider
 * Month names and DOW names / abbrevs are highlighted
 
-https://github.com/nordtheme
+https://github.com/nordtheme/notepadplusplus?tab=readme-ov-file
 I use this nordtheme for my base colors for notepad++ and have built the colors around that.
 The more important part of the UDL is having a reasonable basis for all the rules in place so that customizing the colors is easy. 
 
